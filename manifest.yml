@@ -1,0 +1,10 @@
+---
+env_name: environment_jk
+
+tech_stacks:
+    tech_stack-jk:
+      url: https://github.com/jitheshktv/tech_stack-jk.git
+      branch: master
+      parameters:
+      #security:
+        securityVpcId: vpc-7a1e2f1f
