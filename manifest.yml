@@ -7,4 +7,4 @@ tech_stacks:
       branch: master
       parameters:
       #security:
-        securityVpcId: vpc-7a1e2f1f
+        securityVpcId: vpc-f1db8b94
